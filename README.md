@@ -78,4 +78,4 @@ ALTER TABLE placas ADD CONSTRAINT PLACAS_USUARIO FOREIGN KEY PLACAS_USUARIO (USU
     REFERENCES USUARIO (id);
 
 
-## Como utilizar
+## :rocket: Como utilizar

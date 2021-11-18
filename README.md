@@ -1,6 +1,6 @@
 # Desafio CI&T
 
-## Front-End
+## :star2: Front-End
 Nosso front-end foi inteiramente desenvolvido com o auxilio do Vue.js e do Quasar Framework.
 
 [Vue,js](https://vuejs.org/)
@@ -18,12 +18,12 @@ Nessa primeira parte temos a criação dos quadros, uma tela de exibição de to
 ### Listas
 ![alt text](https://github.com/BeOneSix/To-doList/blob/master/imagens/listas.jfif)
 
-## Back-End
+## :man_technologist: Back-End
 
 ### Recursos Spring Boot
 ![alt text](https://github.com/BeOneSix/To-doList/blob/master/imagens/Spring%20Boot.png)
 
-## Banco de Dados
+## :page_with_curl: Banco de Dados
 
 ### Script
 

@@ -79,3 +79,8 @@ ALTER TABLE placas ADD CONSTRAINT PLACAS_USUARIO FOREIGN KEY PLACAS_USUARIO (USU
 
 
 ## :rocket: Como utilizar
+
+Para instalação e execução do projeto, é necessária a instalação do Node JS, MySQL 8.0 e do Spring Tools. 
+A primeira coisa a ser feita é a execução do script no banco de dados MySQL. Verificar se o script executou sem erros, assim pode seguir os próximos passos.
+Para rodar o backend, é necessário executar o código com Spring.
+Já o front, é executado com a framework Quasar. Deve executar o comando "quasar dev" no diretório dos arquivos.
